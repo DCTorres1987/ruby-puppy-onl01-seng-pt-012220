@@ -24,5 +24,9 @@ class Dog
      puts dogs.name
    end
   end
+  
+  def save
+    
+    
    
  end
